@@ -8,8 +8,6 @@ ul {
   list-style: none;
 }
 
-/* header */
-
 .header {
 }
 
@@ -65,7 +63,6 @@ ul {
 }
 
 .header-contact-link {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -76,8 +73,6 @@ ul {
 .header-contact-link:focus {
   color: #404bbf;
 }
-
-/* section 1 */
 
 .solution {
   background: #2e2f42;
@@ -98,7 +93,6 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   cursor: pointer;
 }
@@ -107,7 +101,6 @@ ul {
 .solution-btn:focus {
   background-color: #404bbf;
 }
-/* section 2 */
 
 .about {
 }
@@ -130,14 +123,11 @@ ul {
 }
 
 .about-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-/* Section 3 */
 
 .team {
   background-color: #f4f4fd;
@@ -173,15 +163,12 @@ ul {
 }
 
 .team-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
 }
-
-/* Section 4 */
 
 .portfolio {
 }
@@ -214,14 +201,11 @@ ul {
 }
 
 .portfolio-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-/* footer */
 
 .footer {
   background: #2e2f42;
@@ -247,7 +231,6 @@ ul {
 }
 
 .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
