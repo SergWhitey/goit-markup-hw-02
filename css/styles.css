@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 ul {
@@ -105,7 +105,7 @@ ul {
 
 .solution-btn:hover,
 .solution-btn:focus {
-  background-color: #404BBF
+  background-color: #404bbf;
 }
 /* section 2 */
 
@@ -140,7 +140,7 @@ ul {
 /* Section 3 */
 
 .team {
-  background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -187,7 +187,7 @@ ul {
 }
 
 .portfolio-title {
-  text-transform: capitalize
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -200,7 +200,6 @@ ul {
 }
 
 .portfolio-list-item {
-  
 }
 
 .portfolio-list-img {
